@@ -11,7 +11,6 @@
             </div>
         </div>
         <button type="submit" class="btn btn-sm btn-primary mt-3">submit</button>
-        {{$name}}
         <hr>
     </form>
 </div>
